@@ -30,7 +30,7 @@ const showData = (data) => {
     <div class="podcast_main_player">
       <div class="podcast_player">
         <div class="audio_img">
-          <img src="src/images/big_logo6.png" alt="" />
+          <img src="src/images/mainlogo.png" alt="" />
         </div>
         <div class="right_side">
           <p>The Reactive Entrepreneur</p>
